@@ -1,0 +1,30 @@
+SAMPLE DOCUMENT — FICTIONAL DATA
+
+FABLE FORGE OFFICE SYSTEMS LTD.
+Unit 4, Lantern Yard, Demo Quarter, Bengaluru, India
+GSTIN: DEMO-GSTIN-FF-001
+Email: billing@fableforge.example
+
+TAX INVOICE                                      No. FF-INV-2026-041
+Issued: 17 Nov 2026                             Pay by: 01 Dec 2026
+Currency: INR
+
+Bill to / customer:
+Willow Finch Creative (fictional)
+8 Paper Kite Lane, Demo District, Pune, India
+Accounts: ap@willowfinch.example
+
+Description                         Qty    Unit price       Line total
+ArcDock USB-C workstation hub        4     INR 2,450.00     INR 9,800.00
+QuietKey keyboard set                3     INR   900.00     INR 2,700.00
+
+Subtotal before GST                                      INR 12,500.00
+CGST (9%)                                                 INR  1,125.00
+SGST (9%)                                                 INR  1,125.00
+GST total                                                 INR  2,250.00
+AMOUNT DUE                                                INR 14,750.00
+
+Payment: Bank transfer; payment status is unpaid.
+Please include invoice FF-INV-2026-041 in the transfer reference.
+
+This sample is entirely fictional and is provided for extraction demos only.

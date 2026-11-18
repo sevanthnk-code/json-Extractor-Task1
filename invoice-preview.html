@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sample invoice extraction</title>
+    <style>
+      body {
+        background: #f4f6f8;
+        color: #17212b;
+        font: 16px/1.5 system-ui, sans-serif;
+        margin: 0;
+        padding: 2rem;
+      }
+      main {
+        background: #fff;
+        border: 1px solid #dce2e8;
+        border-radius: 12px;
+        margin: 0 auto;
+        max-width: 760px;
+        padding: 1.5rem;
+      }
+      h1 { margin-top: 0; }
+      pre {
+        background: #f6f8fa;
+        border-radius: 8px;
+        overflow-x: auto;
+        padding: 1rem;
+      }
+      code { font: 14px/1.55 ui-monospace, monospace; }
+      .note { color: #526170; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Sample invoice extraction</h1>
+      <p class="note">Example output shaped to match the SmartExtract invoice schema.</p>
+      <pre><code>{
+  "invoice_number": "A-104",
+  "invoice_date": "2025-03-04",
+  "due_date": "2025-03-18",
+  "vendor_name": "ACME SUPPLY",
+  "customer_name": "River Cafe",
+  "customer_email": null,
+  "subtotal_amount": null,
+  "tax_amount": null,
+  "total_amount": 15.0,
+  "currency": "USD",
+  "payment_status": null
+}</code></pre>
+    </main>
+  </body>
+</html>

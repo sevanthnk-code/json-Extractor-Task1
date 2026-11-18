@@ -1,0 +1,50 @@
+SAMPLE RESUME — FICTIONAL CANDIDATE
+
+AVERY QUINN
+Data Engineer
+Portland, Oregon | +1 (503) 555-0148 | avery.quinn@example.com
+Portfolio: https://averyquinn.example
+
+PROFILE / ABOUT
+Data engineer focused on dependable batch and streaming pipelines, clear
+documentation, and making datasets easier for product and operations teams to use.
+Enjoys untangling inconsistent source data and turning it into maintainable systems.
+
+TECHNICAL SKILLS
+Python • SQL • Apache Spark • dbt • Airflow • PostgreSQL • BigQuery • Docker
+Cloud: object storage, managed data warehouses, scheduled workflows
+
+EXPERIENCE
+
+Cloud Harbor Data (fictional) — Data Engineer
+Portland, OR | Aug 2022 to present
+- Built and maintained Python/Spark ingestion pipelines for product and billing data.
+- Added data-quality checks and alerting; reduced recurring pipeline failures by 30%.
+- Worked with analysts to document shared metrics and dataset ownership.
+
+Pebble Route Analytics (fictional) / Junior Analytics Engineer
+Remote | July 2019 — July 2022
+- Refactored SQL transformations into reusable dbt models.
+- Supported warehouse migrations and investigated delayed daily reporting.
+
+EDUCATION
+Redwood Technical University (fictional), B.S. Computer Science
+2015–2019 | Portland, OR
+Selected coursework: databases, distributed systems, software testing
+
+PROJECTS / SELECTED WORK
+“Trailhead” event pipeline — personal demo project
+Python + Spark + PostgreSQL; ingests sample event records and produces daily
+aggregate tables with checks for duplicates and missing timestamps.
+
+Inventory Pulse Dashboard (team project)
+Built SQL views and a small reporting dashboard using synthetic inventory data.
+
+CERTS & TRAINING
+- Google Cloud Professional Data Engineer — earned May 2024
+- dbt Fundamentals — completed 2023
+
+References available on request.
+
+All names, organizations, contact details, and project information in this
+sample are fictional. The .example contact domains are reserved for examples.
